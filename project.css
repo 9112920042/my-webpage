@@ -1,0 +1,45 @@
+.sign-in{
+	font-family: RenosRough-Regular;
+	padding-top: 25px;
+}
+
+.gift{
+	padding-top: 20px;
+	display: block;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.heading{
+	font-family: American Purpose;
+	font-size: 60px;
+	font-weight: bold;
+	padding-left: 175px;
+}
+
+.footer-links{
+	font-family: RenosRough-Regular;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.horizontal-line{
+	border-top: 2px solid #BDBDBD; 
+}
+
+.products{
+	padding-left: 140px;
+	padding-right: 140px;
+}
+
+.card {
+    box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
+}
+
+.card-btn{
+	background-color: #E4002B;
+	color: white;
+	font-family: RenosRough-Regular;
+	float: right;
+}	
+
